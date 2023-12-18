@@ -1,0 +1,10 @@
+Api gateway(more than 5 questions),
+Lambda(more than 5 questions including Integration with api gateway questions) ,
+S3 (encryption is very important),
+Dynamo DB,
+CI/CD,
+Cognito,
+Elasticache,
+Elastic Beanstalk,
+SAM( 2-3 questions. Asked about CLI commands),
+IAM
